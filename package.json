@@ -1,0 +1,23 @@
+{
+  "name": "sample-nodejs-raspberry-pi",
+  "version": "1.0.0",
+  "description": "a few experiments with raspberry pi and nodejs. we want to open doors.",
+  "main": "blink.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sombriks/sample-nodejs-raspberry-pi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sombriks/sample-nodejs-raspberry-pi/issues"
+  },
+  "homepage": "https://github.com/sombriks/sample-nodejs-raspberry-pi#readme",
+  "dependencies": {
+    "onoff": "^3.2.2"
+  }
+}
