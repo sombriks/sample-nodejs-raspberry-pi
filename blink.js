@@ -1,5 +1,7 @@
-const Gpio = require('onoff').Gpio;
-const pin = new Gpio(23, 'out');
+const {
+	Gpio
+} = require('onoff');
+const pin = new Gpio(4, 'out');
 
 let blinkInterval;
 
