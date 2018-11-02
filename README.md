@@ -2,9 +2,9 @@
 
 a few experiments with raspberry pi and nodejs. we want to open doors.
 
-![sample-raspberry-pi.jpg](sample-raspberry-pi.jpg)
+![sample-raspberry-pi.jpg](assets/sample-raspberry-pi.jpg)
 
-![pinout.png](pinout.png)
+![pinout.png](assets/pinout.png)
 
 using (for now)
 
@@ -14,3 +14,4 @@ using (for now)
 - GPIO27 (13)
 - GPIO22 (15)
 - GPIO23 (16)
+- 3.3VDC (17)
